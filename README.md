@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 there, I'm Rohit Giri Rg</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<center><img width="100%" align="center" alt='coding' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'/></center>
+<center><img width="100%" height="200px" align="center" alt='coding' src='https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif'/></center>
 
 - 🔭 I’m interested in **Full Stack Web Development.**
 
